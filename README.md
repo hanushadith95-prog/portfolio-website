@@ -1,1 +1,1 @@
-# portfolio-website
+A personal portfolio website built using **HTML5 and CSS3** with a clean and simple design. The website includes a **Home page** featuring my profile, skills, projects, and achievements, and a **Contact page** for communication. This project showcases my basic web development and frontend design skills.
